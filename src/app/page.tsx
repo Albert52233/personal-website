@@ -50,6 +50,11 @@ export default function HomePage() {
           <Link href="/photo">
             <Button>Photo Gallery</Button>
           </Link>
+
+          <Link href="/cues">
+            <Button>Cue Collections</Button>
+          </Link>
+
         </Space>
       </Space>
 

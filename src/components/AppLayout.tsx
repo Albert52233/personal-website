@@ -13,6 +13,7 @@ const items = [
   { key: "/projects", label: <Link href="/projects">Projects</Link> },
   { key: "/resume", label: <Link href="/resume">Resume</Link> },
   { key: "/contact", label: <Link href="/contact">Contact</Link> },
+  { key: "/cues", label: <Link href="/cues">Cue Collection</Link> },
 ];
 
 export default function AppLayout({ children }: { children: React.ReactNode }) {
